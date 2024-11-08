@@ -146,23 +146,8 @@ python manage.py test
 
 ## Contributing
 
-contributions to the Learning Log project is welcome!
-
-1. **Fork the repository**.
-2. **Create a new branch** for your feature or bug fix:
-   ```bash
-   git checkout -b my-feature-branch
-   ```
-3. **Make your changes**, and commit them:
-   ```bash
-   git commit -m "Add new feature"
-   ```
-4. **Push your changes** to your fork:
-   ```bash
-   git push origin my-feature-branch
-   ```
-5. **Create a pull request** from your forked repo to the main project.
-
+Contributions to the Learning Log project is welcome!
+Feel free to fork the repository, make your changes, and submit a pull request.
 
 ## Acknowledgments
 

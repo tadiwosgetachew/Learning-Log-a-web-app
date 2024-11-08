@@ -119,7 +119,7 @@ In the project root (same level as `manage.py`), create a file called `.env` and
 
 ```env
 # Secret key for cryptographic signing
-SECRET_KEY=your-generated-secret-key  # You can generate one at the Django Secret Key Generator (https://djecrety.ir/)
+SECRET_KEY=your-generated-secret-key  # You can generate one at the Django Secret Key Generator (https://django-secret-key-generator.netlify.app/)
 
 # Set to 'True' for development, 'False' for production
 DEBUG=True

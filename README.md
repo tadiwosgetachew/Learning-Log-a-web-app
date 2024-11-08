@@ -125,7 +125,8 @@ SECRET_KEY=your-generated-secret-key  # You can generate one at the Django Secre
 DEBUG=True
 
 # Database URL for local development (SQLite is fine for testing)
-DATABASE_URL=sqlite:///db.sqlite3
+DATABASE_URL=sqlite:///db.sqlite3 
+```
 
 ### Running the Development Server
 

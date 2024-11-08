@@ -118,13 +118,13 @@ pip install -r requirements.txt
 In the project root (same level as manage.py), create a file called .env and open the file in a text editor and add the following settings:
 
 
-# Secret key for cryptographic signing
-SECRET_KEY=your-generated-secret-key  **you can generate one at Django Secret Key Generator**
+**Secret key for cryptographic signing**
+SECRET_KEY=your-generated-secret-key      **you can generate one at the Django Secret Key Generator**
 
-# Set to 'True' for development, 'False' for production
+**Set to 'True' for development, 'False' for production**
 DEBUG=True
 
-# Database URL for local development (SQLite is fine for testing)
+**Database URL for local development (SQLite is fine for testing)**
 DATABASE_URL=sqlite:///db.sqlite3
 
 

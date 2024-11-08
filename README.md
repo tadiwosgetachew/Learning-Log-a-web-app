@@ -119,13 +119,13 @@ In the project root (same level as manage.py), create a file called .env and ope
 
 
 **Secret key for cryptographic signing**
-SECRET_KEY=your-generated-secret-key      **you can generate one at the Django Secret Key Generator**
+- SECRET_KEY=your-generated-secret-key      **you can generate one at the Django Secret Key Generator**
 
 **Set to 'True' for development, 'False' for production**
-DEBUG=True
+- DEBUG=True
 
 **Database URL for local development (SQLite is fine for testing)**
-DATABASE_URL=sqlite:///db.sqlite3
+- DATABASE_URL=sqlite:///db.sqlite3
 
 
 ### Running the Development Server
